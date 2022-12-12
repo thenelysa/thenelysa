@@ -16,11 +16,11 @@
 
 - 📝 I regularly write articles on --
 
-- 📫 How to reach me -- 
+- 📫 How to reach me via social media 
 
 - 📄 Know about my experiences --
 
-- ⚡ Fun fact --
+- ⚡ Fun fact uh...
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
