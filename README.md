@@ -10,17 +10,13 @@
 
 - 🔭 I’m currently working on myself
 
-- 🌱 I’m currently learning **C#**
-
-- 👨‍💻 All of my projects are available at --
-
-- 📝 I regularly write articles on --
+- 🌱 I’m currently learning **Automation Testing using Cypress Tool**
 
 - 📫 How to reach me via social media 
 
-- 📄 Know about my experiences --
+- 📄 Know about my experiences - CV uploaded
 
-- ⚡ Fun fact uh...
+- ⚡ Fun fact: I can read Traot cards!
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
