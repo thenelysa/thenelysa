@@ -8,7 +8,7 @@
 
 <img src="https://camo.githubusercontent.com/78ead8fb96f8aed0546e5208acd6ff1faed3fab4a0e86a3640c6d9f9bb05479f/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616e64697073746861" alt="thenelysa" data-canonical-src="https://github-profile-trophy.vercel.app/?username=thenelysa" style="max-width: 100%;">
 
-- 🔭 I’m currently working on myself
+- 🔭 I’m currently working on growing and glowing.
 
 - 🌱 I’m currently learning **Automation Testing using Cypress Tool**
 
