@@ -55,10 +55,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
 </a>
 
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/> 
 </a>
@@ -71,9 +67,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 </a>
 
-<a href="https://www.linux.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
-</a>
 
 <a href="https://www.mysql.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
@@ -91,21 +84,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
 </a>
 
-<a href="https://developer.apple.com/swift/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/> 
-</a>
 
-<a href="https://unity.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/> 
-</a>
 
-<a href="https://unrealengine.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/> 
-</a>
 
 <!-- New Icons: Cypress, Postman -->
 <a href="https://www.cypress.io/" target="_blank">
