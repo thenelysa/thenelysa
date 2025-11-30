@@ -1,93 +1,92 @@
 
 
 <h1 align="center">Hi 👋, I'm Neelisha Shrestha</h1>
-<h3 align="center">:)</h3>
+<h3 align="center">Quality Assurance Trainee | Cypress Automation Learner | Tech Explorer ✨</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thenelysa&label=Profile%20views&color=0e75b6&style=flat" alt="thenelysa" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenelysa&label=Profile%20views&color=0e75b6&style=flat" alt="thenelysa" /> </p>
+<!-- Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thenelysa&theme=flat&margin-w=10" />
+</p>
 
-<img src="https://camo.githubusercontent.com/78ead8fb96f8aed0546e5208acd6ff1faed3fab4a0e86a3640c6d9f9bb05479f/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616e64697073746861" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=thenelysa" style="max-width: 100%;">
+---
 
-- 🔭 I’m currently working on QA skills.
+### 👩‍💻 About Me  
+- 🔭 I’m currently working on **QA and software testing skills**  
+- 🌱 Learning **Automation Testing using Cypress**  
+- 📫 Reach me on **Instagram or LinkedIn** (links in the Connect section)  
+- 📄 My **CV is uploaded**  
+- ⚡ Fun fact: *I can read Tarot cards 🔮*
 
-- 🌱 I’m currently learning **Automation Testing using Cypress Tool**
+---
 
-- 📫 How to reach me via social media 
+<h3 align="left">🌐 Connect with me</h3>
+<p align="left">
+  <a href="#" target="_blank">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-icon-4/842/facebook-512.png" height="30" width="40" />
+  </a>
 
-- 📄 Know about my experiences - CV uploaded
+  <a href="#" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="30" width="40" />
+  </a>
 
-- ⚡ Fun fact: I can read Traot cards!
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
+  </a>
+</p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align ="left">
-  <a href="#" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-icon-4/842/facebook-512.png" height="30" width="40" /></a>
-   <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
 
-<!-- Existing Icons -->
-<a href="https://www.blender.org/" target="_blank"> 
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/> 
+<!-- Core Programming -->
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
+<a href="https://www.w3schools.com/cs/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> 
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/> 
+<!-- Web Development -->
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.java.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<!-- Database & Tools -->
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.photoshop.com/en" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.php.net" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-</a>
-
-
-
-
-<!-- New Icons: Cypress, Postman -->
+<!-- QA Tools -->
 <a href="https://www.cypress.io/" target="_blank">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40"/>
 </a>
@@ -96,4 +95,27 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </a>
 
+<!-- Creative Tools -->
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.photoshop.com/en" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thenelysa&show_icons=true&locale=en&layout=compact" alt="thenelysa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thenelysa&show_icons=true&locale=en" alt="thenelysa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenelysa" alt="thenelysa" />
 </p>
