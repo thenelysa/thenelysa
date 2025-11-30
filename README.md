@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Neelisha Shrestha</h1>
 <h3 align="center">Quality Assurance Trainee | Cypress Automation Learner | Tech Explorer ✨</h3>
 
@@ -14,33 +12,31 @@
 
 ---
 
-### 👩‍💻 About Me  
-- 🔭 I’m currently working on **QA and software testing skills**  
-- 🌱 Learning **Automation Testing using Cypress**  
-- 📫 Reach me on **Instagram or LinkedIn** (links in the Connect section)  
-- 📄 My **CV is uploaded**  
+### 👩‍💻 About Me
+- 🔭 I’m currently working on **QA and software testing skills**
+- 🌱 Learning **Automation Testing using Cypress**
+- 📫 Reach me via **Instagram** or **LinkedIn**
+- 📄 My **CV is uploaded**
 - ⚡ Fun fact: *I can read Tarot cards 🔮*
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="#" target="_blank">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-icon-4/842/facebook-512.png" height="30" width="40" />
-  </a>
 
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/nelysaa_?igsh=ZWViZWpvNjdobHNx&utm_source=qr" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="30" width="40" />
   </a>
 
   <a href="https://www.linkedin.com/in/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
   </a>
+
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
 
 <!-- Core Programming -->
@@ -68,7 +64,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<!-- Web Development -->
+<!-- Web -->
 <a href="https://www.w3.org/html/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 </a>
@@ -77,13 +73,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<!-- Database & Tools -->
+<!-- Database -->
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
 
 <!-- QA Tools -->
@@ -95,7 +87,7 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </a>
 
-<!-- Creative Tools -->
+<!-- Creative -->
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
 </a>
@@ -108,14 +100,17 @@
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thenelysa&show_icons=true&locale=en&layout=compact" alt="thenelysa" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thenelysa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenelysa&show_icons=true&locale=en" alt="thenelysa" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thenelysa&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+<!-- CLEAN FIXED STREAK CARD -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenelysa" alt="thenelysa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thenelysa&theme=transparent" alt="GitHub Streak" />
 </p>
