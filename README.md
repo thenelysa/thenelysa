@@ -28,7 +28,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" height="30" width="40" />
   </a>
 
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/neelishashrestha/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
   </a>
 
@@ -100,17 +100,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thenelysa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenelysa&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<!-- CLEAN FIXED STREAK CARD -->
+<!-- Clean Streak Only -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=thenelysa&theme=transparent" alt="GitHub Streak" />
 </p>
