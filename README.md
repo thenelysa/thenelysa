@@ -24,7 +24,7 @@
 - 🌱 Learning **Automation Testing using Cypress**
 - 📫 Reach me via **Instagram** or **LinkedIn**
 - 📄 My **CV is uploaded**
-- ⚡ Fun fact: *I can read Tarot cards 🔮*
+- ⚡ Fun fact: *I read Tarot cards for fun 🔮*
 
 ---
 
